@@ -1,2 +1,2 @@
 FROM nginx
-RUN echo 'hey docker hub master' > /usr/share/nginx/html/index.html
+RUN echo 'auto deploy is ok~!!!' > /usr/share/nginx/html/index.html
